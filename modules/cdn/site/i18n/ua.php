@@ -1,0 +1,26 @@
+<?php
+
+return array(
+	'model_name' => 'Опції CDN',
+	'title' => 'Опції CDN',
+	'menu' => 'Опції CDN',
+	'active' => 'Активність',
+	'default' => 'За-замовчуванням',
+	'css' => 'CDN для CSS',
+	'js' => 'CDN для JavaScript',
+	'informationsystem' => 'CDN для зображень інформаційних систем',
+	'shop' => 'CDN для зображень магазинів',
+	'structure' => 'CDN для вузлів структури',
+	'css_domain' => "CDN-домен для CSS",
+	'js_domain' => "CDN-домен для JS",
+	'informationsystem_domain' => "CDN-домен для зображень інформаційних систем",
+	'shop_domain' => "CDN-домен для зображень магазинів",
+	'structure_domain' => "CDN-домен для вузлів структури",
+	'cdn_id' => 'Ідентифікатор CDN',
+	'site_id' => 'Ідентифікатор сайту',
+	'add_title' => 'Додавання інформації про опції CDN',
+	'edit_title' => 'Редагування інформації про опції CDN',
+	'delete_success' => 'Опція CDN успішно видалена!',
+	'edit_success' => "Опція CDN успішно змінена!",
+	'changeActive_success' => "Активність успішно змінена!",
+);

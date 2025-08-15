@@ -1,0 +1,140 @@
+<?php
+
+defined('HOSTCMS') || exit('HostCMS: access denied.');
+
+/**
+ * XSL Module.
+ *
+ * @package HostCMS
+ * @subpackage Xsl
+ * @version 7.x
+ * @copyright © 2005-2025, https://www.hostcms.ru
+ */
+class Xsl_Module extends Core_Module_Abstract
+{
+	/**
+	 * Module version
+	 * @var string
+	 */
+	public $version = '7.1';
+
+	/**
+	 * Module date
+	 * @var date
+	 */
+	public $date = '2025-04-04';
+
+	/**
+	 * Module name
+	 * @var string
+	 */
+	protected $_moduleName = 'xsl';
+
+	protected $_options = array(
+		'formatOutput' => array(
+			'type' => 'checkbox',
+			'default' => TRUE
+		)
+	);
+
+	/**
+	 * Get Module's Menu
+	 * @return array
+	 */
+	public function getMenu()
+	{
+		$this->menu = array(
+			array(
+				'sorting' => 100,
+				'block' => 0,
+				'ico' => 'fa-solid fa-code',
+				'name' => Core::_('Xsl.menu'),
+				'href' => Admin_Form_Controller::correctBackendPath("/{admin}/xsl/index.php"),
+				'onclick' => Admin_Form_Controller::correctBackendPath("$.adminLoad({path: '/{admin}/xsl/index.php'}); return false")
+			)
+		);
+
+		return parent::getMenu();
+	}
+
+	/**
+	 * Функция обратного вызова для поисковой индексации
+	 *
+	 * @param int $site_id
+	 * @param int $offset
+	 * @param int $limit
+	 * @return array
+	 * @hostcms-event Xsl_Module.indexing
+	 */
+	public function indexing($site_id, $offset, $limit)
+	{
+		$site_id = intval($site_id);
+		$offset = intval($offset);
+		$limit = intval($limit);
+
+		Core_Log::instance()->clear()
+			->notify(FALSE)
+			->status(Core_Log::$MESSAGE)
+			->write("xsl indexing({$offset}, {$limit})");
+
+		$oXsls = Core_Entity::factory('Xsl');
+		$oXsls
+			->queryBuilder()
+			->leftJoin('xsl_dirs', 'xsls.xsl_dir_id', '=', 'xsl_dirs.id')
+			->open()
+				->where('xsl_dirs.id', 'IS', NULL)
+				->setOr()
+				->where('xsl_dirs.deleted', '=', 0)
+			->close()
+			->clearOrderBy()
+			->orderBy('xsls.id', 'ASC')
+			->limit($offset, $limit);
+
+		Core_Event::notify(get_class($this) . '.indexing', $this, array($oXsls));
+
+		$aXsls = $oXsls->findAll(FALSE);
+
+		$aPages = array();
+		foreach ($aXsls as $oXsl)
+		{
+			$aPages[] = $oXsl->indexing();
+		}
+
+		return array('pages' => $aPages, 'indexed' => count($aPages), 'finished' => count($aPages) < $limit);
+	}
+
+	/**
+	 * Backend search callback function
+	 * @param Search_Page_Model $oSearch_Page
+	 * @return array 'href' and 'onclick'
+	 */
+	public function backendSearchCallback($oSearch_Page)
+	{
+		$href = $onclick = NULL;
+
+		$iAdmin_Form_Id = 22;
+		$oAdmin_Form = Core_Entity::factory('Admin_Form', $iAdmin_Form_Id);
+		$oAdmin_Form_Controller = Admin_Form_Controller::create($oAdmin_Form)->formSettings();
+
+		$sPath = '/{admin}/xsl/index.php';
+
+		if ($oSearch_Page->module_value_id)
+		{
+			$oXsl = Core_Entity::factory('Xsl')->find($oSearch_Page->module_value_id);
+
+			if (!is_null($oXsl->id))
+			{
+				$additionalParams = "xsl_dir_id={$oXsl->xsl_dir_id}";
+
+				$href = $oAdmin_Form_Controller->getAdminActionLoadHref($sPath, 'edit', NULL, 1, $oXsl->id, $additionalParams);
+				$onclick = $oAdmin_Form_Controller->getAdminActionLoadAjax($sPath, 'edit', NULL, 1, $oXsl->id, $additionalParams);
+			}
+		}
+
+		return array(
+			'icon' => 'fa fa-code',
+			'href' => $href,
+			'onclick' => $onclick
+		);
+	}
+}

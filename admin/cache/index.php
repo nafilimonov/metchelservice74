@@ -1,0 +1,37 @@
+<?php
+/**
+ * Cache.
+ *
+ * @package HostCMS
+ * @version 7.x
+ * @copyright © 2005-2024, https://www.hostcms.ru
+ */
+require_once('../../bootstrap.php');
+
+Core_Auth::authorization($sModule = 'cache');
+
+// Код формы
+$iAdmin_Form_Id = 23;
+$sAdminFormAction = '/{admin}/cache/index.php';
+
+$oAdmin_Form = Core_Entity::factory('Admin_Form', $iAdmin_Form_Id);
+
+// Контроллер формы
+$oAdmin_Form_Controller = Admin_Form_Controller::create($oAdmin_Form);
+$oAdmin_Form_Controller
+	->module(Core_Module_Abstract::factory($sModule))
+	->setUp()
+	->path($sAdminFormAction)
+	->title(Core::_('Cache.title'))
+	->pageTitle(Core::_('Cache.title'));
+
+// Источник данных 0
+$oAdmin_Form_Dataset = new Cache_List_Dataset();
+
+// Добавляем источник данных контроллеру формы
+$oAdmin_Form_Controller->addDataset(
+	$oAdmin_Form_Dataset
+);
+
+// Показ формы
+$oAdmin_Form_Controller->execute();

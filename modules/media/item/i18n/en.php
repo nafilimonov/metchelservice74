@@ -1,0 +1,27 @@
+<?php
+
+return array(
+	'model_name' => 'Media items',
+	'add_form_title' => 'Add File',
+	'edit_form_title' => 'Editing file %s',
+	'id' => 'Identifier',
+	'site_id' => 'Site ID',
+	'name' => 'Name',
+	'caption' => 'Caption',
+	'alt' => 'alt',
+	'datetime' => 'Date',
+	'file' => 'File',
+	'type0' => 'Unknown type',
+	'type1' => 'Image',
+	'type2' => 'Video',
+	'type3' => 'Audio',
+	'type4' => 'Document',
+	'media_group_id' => 'Parent group',
+	'description' => 'Description',
+	'edit_success' => "Information changed successfully",
+	'apply_success' => "Information changed successfully",
+	'markDeleted_success' => "File information deleted successfully!",
+	'delete_success' => 'Item deleted!',
+	'undelete_success' => 'Item restored!',
+	'media_format_header' => 'Formats',
+);

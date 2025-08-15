@@ -1,8 +1,6 @@
 /.idea/
-/cgi-bin/
-/admin/
-/modules/
 /upload/
+/files/
+/hostcmsfiles/cache/
 /*.jpg
 /*.png
-/files/
