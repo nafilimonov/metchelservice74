@@ -42,114 +42,37 @@
 				</div>
 			</xsl:if>
 
-			<p>Обратите внимание, введенные контактные данные будут доступны на странице пользователя
-				неограниченному кругу лиц.
-				<br />Обязательные поля отмечены *.</p>
+			<p>Обязательные поля отмечены *.</p>
 
 			<div class="comment">
 				<form action="/users/registration/" method="post" enctype="multipart/form-data">
 					<div class="row">
-						<div class="caption">Логин</div>
+						<div class="caption">Логин <sup>*</sup></div>
 						<div class="field">
-							<input name="login" type="text" value="{login}" size="40"/> *
+							<input name="login" type="text" value="{login}" size="40"/>
 						</div>
 					</div>
 
+                    <div class="row">
+                        <div class="caption">E-mail <sup>*</sup></div>
+                        <div class="field">
+                            <input name="email" type="text" value="{email}" size="40"/>
+                        </div>
+                    </div>
+
 					<div class="row">
-						<div class="caption">Пароль</div>
+						<div class="caption">Пароль <xsl:if test="@id = ''"><sup>*</sup></xsl:if></div>
 						<div class="field">
 							<input name="password" type="password" value="" size="40"/>
-
-							<!-- Для авторизированного пользователя заполнять пароль при редактирвоании данных необязательно -->
-							<xsl:if test="@id = ''"> *</xsl:if>
 						</div>
 					</div>
 					<div class="row">
-						<div class="caption">Повтор пароля</div>
+						<div class="caption">Повтор пароля <xsl:if test="@id = ''"><sup>*</sup></xsl:if></div>
 						<div class="field">
 							<input name="password2" type="password" value="" size="40"/>
+						</div>
+					</div>
 
-							<!-- Для авторизированного пользователя заполнять пароль при редактирвоании данных необязательно -->
-							<xsl:if test="@id = ''"> *</xsl:if>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">E-mail</div>
-						<div class="field">
-							<input name="email" type="text" value="{email}" size="40"/> *</div>
-					</div>
-					<div class="row">
-						<div class="caption">Имя</div>
-						<div class="field">
-							<input name="name" type="text" value="{name}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Фамилия</div>
-						<div class="field">
-							<input name="surname" type="text" value="{surname}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Отчество</div>
-						<div class="field">
-							<input name="patronymic" type="text" value="{patronymic}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Компания</div>
-						<div class="field">
-							<input name="company" type="text" value="{company}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Телефон</div>
-						<div class="field">
-							<input name="phone" type="text" value="{phone}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Факс</div>
-						<div class="field">
-							<input name="fax" type="text" value="{fax}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Сайт</div>
-						<div class="field">
-							<input name="website" type="text" value="{website}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">ICQ</div>
-						<div class="field">
-							<input name="icq" type="text" value="{icq}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Страна</div>
-						<div class="field">
-							<input name="country" type="text" value="{country}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Почтовый индекс</div>
-						<div class="field">
-							<input name="postcode" type="text" value="{postcode}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Город</div>
-						<div class="field">
-							<input name="city" type="text" value="{city}" size="40"/>
-						</div>
-					</div>
-					<div class="row">
-						<div class="caption">Адрес</div>
-						<div class="field">
-							<input name="address" type="text" value="{address}" size="40"/>
-						</div>
-					</div>
 
 					<!-- Внешние параметры -->
 					<xsl:if test="count(properties/property)">
@@ -178,8 +101,7 @@
 						</div>
 
 						<div class="row">
-							<div class="caption">
-						Контрольное число<sup><font color="red">*</font></sup>
+							<div class="caption"> Контрольное число<sup> *</sup>
 							</div>
 							<div class="field">
 								<input type="hidden" name="captcha_id" value="{/siteuser/captcha_id}"/>

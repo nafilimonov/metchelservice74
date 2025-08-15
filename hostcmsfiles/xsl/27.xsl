@@ -15,8 +15,14 @@
 				
 				<!-- Выводим меню -->
 				<ul class="users">
-					<xsl:apply-templates select="item"/>
+                    <li>
+                        <a href="registration/">Личная информация</a>
+                    </li>
+                    <li>
+                        <a href="?action=exit">Выход</a>
+                    </li>
 				</ul>
+
 			</xsl:when>
 			<!-- Неавторизованный пользователь -->
 			<xsl:otherwise>
@@ -52,57 +58,7 @@
 					
 				<p>Забыли пароль? Мы можем его <a href="/users/restore_password/">восстановить</a>.</p>
 				</div>
-				
-				<xsl:if test="count(site/siteuser_identity_provider)">
-					<div class="authorization">
-						
-						<h1>OAuth</h1>
-						
-						<xsl:for-each select="site/siteuser_identity_provider[image != '' and type = 1]">
-							<xsl:element name="a">
-								<xsl:attribute name="href">
-									?oauth_provider=<xsl:value-of select="@id"/>
-								</xsl:attribute>
-								<img src="{dir}{image}" alt="{name}"/>
-							</xsl:element>&#160;
-						</xsl:for-each>
-					
-						<h1>OpenID</h1>
-						
-						<!-- Выводим ошибку, если она была передана через внешний параметр -->
-						<xsl:if test="provider_error/node()">
-							<div id="error">
-								<xsl:value-of select="provider_error"/>
-							</div>
-						</xsl:if>
-						
-						<form action="/users/" method="post">
-							<p>Войти с помощью:</p>
-							<xsl:for-each select="site/siteuser_identity_provider[image != '' and type = 0]">
-								<label>
-									<input type="radio" name="identity_provider" value="{@id}">
-										<xsl:if test="position() = 1">
-											<xsl:attribute name="checked">checked</xsl:attribute>
-										</xsl:if>
-									</input> <img src="{dir}{image}" alt="{name}" title="{name}" />
-								</label>
-							</xsl:for-each>
-							
-							<p>Логин в выбранном сервисе:
-								<br /><input name="openid_login" type="text" size="30" class="large" />
-							</p>
-							
-							<input name="applyOpenIDLogin" type="submit" value="Войти" class="button" />
-						</form>
-						
-						<form action="/users/" method="post">
-							<p>или введите OpenID вручную:
-								<br /><input name="openid" type="text" size="30" class="large" />
-							</p>
-							<input name="applyOpenID" type="submit" value="Войти" class="button" />
-						</form>
-					</div>
-				</xsl:if>
+
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>

@@ -519,9 +519,9 @@ td.mytdd {width:100px;padding:5px;border:1px solid black;text-align:center;}
 select, 
 input[type="text"],
 input[type="email"],
+input[type="password"],
 textarea {
 	outline: none;
-	width: auto;
 	border: 1px solid #898989;
 	transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
 	-moz-transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
@@ -538,6 +538,7 @@ textarea {
 	width: 80%;
 	}
 input[type="email"],
+input[type="password"],
 input[type="text"] {
 	margin-bottom: 10px;
 	}
@@ -725,4 +726,7 @@ ul.polaroids li.messy a { margin-top: -375px; margin-left: 160px; -webkit-transf
 .object-table__phone a {
 	text-decoration: none;
 	color: red;
+}
+.caption sup {
+    color: red;
 }
