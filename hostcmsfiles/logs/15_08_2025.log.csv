@@ -1,0 +1,218 @@
+"2025-08-15 07:29:37",admin,"Вход в систему управления",4,-,https://metchelservice74.ru/admin/index.php,188.19.42.100
+"2025-08-15 07:29:41",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/calendar/index.php?loadEvents,188.19.42.100
+"2025-08-15 07:29:49",admin,"Доступ к модулю ""trash"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/trash/index.php,188.19.42.100
+"2025-08-15 07:29:53",admin,"Доступ к модулю ""trash"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/trash/table/index.php?table=informationsystem_items,188.19.42.100
+"2025-08-15 07:30:03",admin,"Доступ к модулю ""trash"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/trash/index.php,188.19.42.100
+"2025-08-15 07:30:07",admin,"Доступ к модулю ""trash"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/trash/table/index.php?table=structures,188.19.42.100
+"2025-08-15 07:30:14",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:30:16",admin,"Доступ к модулю ""lib"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lib/index.php,188.19.42.100
+"2025-08-15 07:30:20",admin,"Доступ к модулю ""lib"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lib/index.php?lib_dir_id=16,188.19.42.100
+"2025-08-15 07:30:32",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php,188.19.42.100
+"2025-08-15 07:30:38",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:30:46",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:30:47",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:31:30",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_dir_id=16,188.19.42.100
+"2025-08-15 07:31:30",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:31:44",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=24,188.19.42.100
+"2025-08-15 07:31:44",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=138,188.19.42.100
+"2025-08-15 07:31:44",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=139,188.19.42.100
+"2025-08-15 07:31:49",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:31:50",admin,"Действие ""Редактировать"" формы ""Структура сайта""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:31:50",admin,"Доступ к модулю ""media"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/media/index.php?entity_id=125&type=structure&dataset_id=0&parentWindowId=id_content&_module=0,188.19.42.100
+"2025-08-15 07:33:51",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=1755232310de94d19f7fe476b34fbcd57c4142a25e2600fec338f001fe5fce8ad27a5e4715,188.19.42.100
+"2025-08-15 07:33:51",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=24,188.19.42.100
+"2025-08-15 07:33:52",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=139,188.19.42.100
+"2025-08-15 07:33:52",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=138,188.19.42.100
+"2025-08-15 07:34:12",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=28,188.19.42.100
+"2025-08-15 07:34:12",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=396,188.19.42.100
+"2025-08-15 07:34:15",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][125]=1,188.19.42.100
+"2025-08-15 07:34:15",admin,"Действие ""Редактировать"" формы ""Структура сайта""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][125]=1,188.19.42.100
+"2025-08-15 07:35:03",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=17552324556d3f449934071c88a825dc054c0d15f8525eaf86ddabe7785d4cc4aa5b50c224,188.19.42.100
+"2025-08-15 07:35:04",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=28,188.19.42.100
+"2025-08-15 07:35:04",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=396,188.19.42.100
+"2025-08-15 07:35:46",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=23,188.19.42.100
+"2025-08-15 07:35:46",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=111,188.19.42.100
+"2025-08-15 07:35:50",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][125]=1,188.19.42.100
+"2025-08-15 07:35:50",admin,"Действие ""Редактировать"" формы ""Структура сайта""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][125]=1,188.19.42.100
+"2025-08-15 07:36:05",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=175523255007ad5497a1968b689374c03333c3430a5651656155a9888e658f0a62d893482d,188.19.42.100
+"2025-08-15 07:36:05",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=23,188.19.42.100
+"2025-08-15 07:36:06",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=111,188.19.42.100
+"2025-08-15 07:36:14",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:36:49",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=124,188.19.42.100
+"2025-08-15 07:36:51",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:36:56",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=17552326118672ebf50ee4f69b99a2db87004dcff11caf893064a1604e9c7fad00b81e19de,188.19.42.100
+"2025-08-15 07:36:56",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:37:05",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:37:17",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=1755232626e3f27ce123dc2c1e3da8d80cbbd5661869a6aae02bf46e7c9339f944ab838c0e,188.19.42.100
+"2025-08-15 07:37:18",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=23,188.19.42.100
+"2025-08-15 07:37:18",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=111,188.19.42.100
+"2025-08-15 07:37:23",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][125]=1,188.19.42.100
+"2025-08-15 07:37:39",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:37:52",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125,188.19.42.100
+"2025-08-15 07:37:54",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125,188.19.42.100
+"2025-08-15 07:37:54",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:38:20",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_dir_id=16,188.19.42.100
+"2025-08-15 07:38:20",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:38:23",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=24,188.19.42.100
+"2025-08-15 07:38:23",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=139,188.19.42.100
+"2025-08-15 07:38:23",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=138,188.19.42.100
+"2025-08-15 07:38:29",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:38:30",admin,"Доступ к модулю ""media"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/media/index.php?entity_id=126&type=structure&dataset_id=0&parentWindowId=id_content&_module=0,188.19.42.100
+"2025-08-15 07:38:31",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][126]=1&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:38:31",admin,"Действие ""Редактировать"" формы ""Структура сайта""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][126]=1&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:38:37",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=126,188.19.42.100
+"2025-08-15 07:38:39",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125,188.19.42.100
+"2025-08-15 07:38:41",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125&secret_csrf=1755232719098ba9ca344a2f1176b66ae8fbc1f8c2fbdc2985ffbb239e8d23053afb3b49a6,188.19.42.100
+"2025-08-15 07:38:41",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=24,188.19.42.100
+"2025-08-15 07:38:42",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=138,188.19.42.100
+"2025-08-15 07:38:42",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=139,188.19.42.100
+"2025-08-15 07:38:46",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][126]=1,188.19.42.100
+"2025-08-15 07:38:46",admin,"Действие ""Редактировать"" формы ""Структура сайта""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][126]=1,188.19.42.100
+"2025-08-15 07:39:03",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125,188.19.42.100
+"2025-08-15 07:39:04",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:39:24",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_dir_id=16,188.19.42.100
+"2025-08-15 07:39:24",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:39:28",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=26,188.19.42.100
+"2025-08-15 07:39:29",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=0&lib_property_id=113,188.19.42.100
+"2025-08-15 07:39:37",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=82&lib_property_id=113,188.19.42.100
+"2025-08-15 07:39:41",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=80&lib_property_id=113,188.19.42.100
+"2025-08-15 07:39:53",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=13&lib_property_id=113,188.19.42.100
+"2025-08-15 07:40:05",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=113,188.19.42.100
+"2025-08-15 07:40:15",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:40:15",admin,"Действие ""Редактировать"" формы ""Структура сайта""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:40:16",admin,"Доступ к модулю ""media"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/media/index.php?entity_id=127&type=structure&dataset_id=0&parentWindowId=id_content&_module=0,188.19.42.100
+"2025-08-15 07:40:48",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125,188.19.42.100
+"2025-08-15 07:40:48",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:41:14",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_dir_id=16,188.19.42.100
+"2025-08-15 07:41:14",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 07:41:17",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=28,188.19.42.100
+"2025-08-15 07:41:17",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=396,188.19.42.100
+"2025-08-15 07:41:19",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:41:19",admin,"Действие ""Редактировать"" формы ""Структура сайта""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&parent_id=125&hostcms[checked][0][0]=1,188.19.42.100
+"2025-08-15 07:41:19",admin,"Доступ к модулю ""media"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/media/index.php?entity_id=128&type=structure&dataset_id=0&parentWindowId=id_content&_module=0,188.19.42.100
+"2025-08-15 07:41:23",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:41:28",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=0&hostcms[checked][0][125]=1&&secret_csrf=1755232883b1f08db2b9c1df9c29271ab2070c5c931f7750889bf16bf6bcf004c0f7181564,188.19.42.100
+"2025-08-15 07:41:28",admin,"Действие ""Индексация"" формы ""Структура сайта""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=0&hostcms[checked][0][125]=1&&secret_csrf=1755232883b1f08db2b9c1df9c29271ab2070c5c931f7750889bf16bf6bcf004c0f7181564,188.19.42.100
+"2025-08-15 07:41:30",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125,188.19.42.100
+"2025-08-15 07:41:59",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125&secret_csrf=17552328909485e60e957a042c36f8fd69ca8011b7693a68d8d3faf422c60325130f4dddcd,188.19.42.100
+"2025-08-15 07:41:59",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=24,188.19.42.100
+"2025-08-15 07:42:00",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=138,188.19.42.100
+"2025-08-15 07:42:00",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=139,188.19.42.100
+"2025-08-15 07:42:03",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=12&hostcms[checked][1][28]=1&hostcms[action]=edit,188.19.42.100
+"2025-08-15 07:42:42",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php,188.19.42.100
+"2025-08-15 07:42:47",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php?&secret_csrf=1755232962ac91b681b574575bc9fb7becff8db8961884e50127d4e3adbcdd64b5b5517d41,188.19.42.100
+"2025-08-15 07:43:22",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=12&hostcms[checked][1][28]=1&hostcms[action]=edit,188.19.42.100
+"2025-08-15 07:44:49",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125,188.19.42.100
+"2025-08-15 07:44:50",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:44:53",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=17552330905b2ca3b65cde5e9e6123e9dd3e48f4c7b29184e63ee503718c509bd3fef630c9,188.19.42.100
+"2025-08-15 07:44:54",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=23,188.19.42.100
+"2025-08-15 07:44:54",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=111,188.19.42.100
+"2025-08-15 07:44:57",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=12&hostcms[checked][1][27]=1&hostcms[action]=edit,188.19.42.100
+"2025-08-15 07:46:17",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,188.19.42.100
+"2025-08-15 07:46:24",admin,"Доступ к модулю ""crm"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/crm/source/index.php,188.19.42.100
+"2025-08-15 07:46:29",admin,"Доступ к модулю ""crm"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/crm/source/index.php?&secret_csrf=1755233185cd3ff0c88f93ca3f32db09f878285f4e0d614692097ed72b01ea65df0d25b7d2,188.19.42.100
+"2025-08-15 07:46:35",admin,"Доступ к модулю ""crm"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/crm/source/index.php,188.19.42.100
+"2025-08-15 07:46:39",admin,"Доступ к модулю ""crm"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/crm/source/index.php,188.19.42.100
+"2025-08-15 07:46:43",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/calendar/index.php?loadEvents,188.19.42.100
+"2025-08-15 07:46:49",admin,"Доступ к модулю ""field"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/field/index.php,188.19.42.100
+"2025-08-15 07:46:57",admin,"Доступ к модулю ""module"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/module/index.php,188.19.42.100
+"2025-08-15 07:47:08",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php,188.19.42.100
+"2025-08-15 07:47:10",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php?&secret_csrf=17552332285f21710169151722d716c04119598f8be45ed49bbc4e5420b66f205eec22f7d5,188.19.42.100
+"2025-08-15 07:47:45",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php?hostcms[current]=1&hostcms[sortingfield]=159&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][1]=1,188.19.42.100
+"2025-08-15 07:48:36",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,188.19.42.100
+"2025-08-15 07:48:59",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=12&hostcms[checked][1][27]=1&hostcms[action]=edit,188.19.42.100
+"2025-08-15 07:49:32",admin,"Доступ к модулю ""message"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/message/index.php,188.19.42.100
+"2025-08-15 07:49:43",admin,"Доступ к модулю ""restapi"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/restapi/index.php,188.19.42.100
+"2025-08-15 07:50:09",admin,"Доступ к модулю ""module"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/module/index.php,188.19.42.100
+"2025-08-15 07:50:13",admin,"Доступ к модулю ""module"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/module/index.php?&secret_csrf=1755233409a1a06bc48040f408b53fabfc61977e3e7b89b0ef6a4618e5e9137cba4d63fcae,188.19.42.100
+"2025-08-15 07:50:19",admin,"Доступ к модулю ""admin_form"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/admin_form/index.php,188.19.42.100
+"2025-08-15 07:50:23",admin,"Доступ к модулю ""benchmark"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/benchmark/index.php,188.19.42.100
+"2025-08-15 07:50:29",admin,"Доступ к модулю ""benchmark"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/benchmark/index.php?enable=cache,188.19.42.100
+"2025-08-15 07:50:32",admin,"Доступ к модулю ""benchmark"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/benchmark/index.php?enable=compression,188.19.42.100
+"2025-08-15 07:50:43",admin,"Доступ к модулю ""benchmark"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/benchmark/url/index.php,188.19.42.100
+"2025-08-15 07:50:54",admin,"Доступ к модулю ""lead"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lead/index.php,188.19.42.100
+"2025-08-15 07:50:57",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,188.19.42.100
+"2025-08-15 07:50:59",admin,"Доступ к модулю ""company"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/company/index.php,188.19.42.100
+"2025-08-15 07:51:03",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/calendar/index.php,188.19.42.100
+"2025-08-15 07:51:04",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/calendar/index.php?loadEvents,188.19.42.100
+"2025-08-15 07:51:04",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/calendar/index.php,188.19.42.100
+"2025-08-15 07:51:05",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/calendar/index.php?loadEvents,188.19.42.100
+"2025-08-15 07:51:06",admin,"Доступ к модулю ""user"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/user/index.php,188.19.42.100
+"2025-08-15 07:51:07",admin,"Доступ к модулю ""crm_project"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/crm/project/index.php,188.19.42.100
+"2025-08-15 07:51:09",admin,"Доступ к модулю ""event"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/event/index.php,188.19.42.100
+"2025-08-15 07:51:10",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,188.19.42.100
+"2025-08-15 07:51:19",admin,"Доступ к модулю ""lead"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lead/index.php,188.19.42.100
+"2025-08-15 07:51:26",admin,"Доступ к модулю ""form"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/form/index.php,188.19.42.100
+"2025-08-15 07:51:27",admin,"Доступ к модулю ""list"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/list/index.php,188.19.42.100
+"2025-08-15 07:51:29",admin,"Доступ к модулю ""search"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/search/index.php,188.19.42.100
+"2025-08-15 07:51:31",admin,"Доступ к модулю ""bot"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/bot/index.php,188.19.42.100
+"2025-08-15 07:51:37",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 07:51:41",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=1755233497b26d0c545a9bab5440ade74bde9ca796b7cd4f4b0cc1d58cfe92b52cf626d85c,188.19.42.100
+"2025-08-15 07:51:42",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=23,188.19.42.100
+"2025-08-15 07:51:42",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=111,188.19.42.100
+"2025-08-15 07:51:51",admin,"Доступ к модулю ""lib"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lib/index.php?hostcms[action]=edit&hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&lib_dir_id=16&hostcms[checked][1][23]=1,188.19.42.100
+"2025-08-15 07:56:07",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php,188.19.42.100
+"2025-08-15 07:56:12",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php?&secret_csrf=1755233767970b1c08089d0e39b98fb1948a271388dbb0f15e8e3aa7221c05bcbc43521d3b,188.19.42.100
+"2025-08-15 07:56:29",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php?hostcms[current]=1&hostcms[sortingfield]=159&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][1]=1,188.19.42.100
+"2025-08-15 08:06:26",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php?&secret_csrf=17552329677e4c25ccdbbbdc1cb02a6a31668c178dbaaa4b8794a70b754199ccedec2adcb5,188.19.42.100
+"2025-08-15 08:06:57",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 08:07:09",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=1755234417e3cb95074457cf51cee0499ced5f6a434a3d356475c718cdd4c75fdef4960bea,188.19.42.100
+"2025-08-15 08:07:10",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=45,188.19.42.100
+"2025-08-15 08:07:14",admin,"Доступ к модулю ""lib"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lib/index.php?hostcms[action]=edit&hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&lib_dir_id=0&hostcms[checked][1][45]=1,188.19.42.100
+"2025-08-15 08:08:13",,"SMTP error: ""503 STARTTLS command used when not advertised
+"", expect ""220""",4,"ООО МетЧелСервис",https://metchelservice74.ru/meter-readings/,188.19.42.100
+"2025-08-15 08:08:46",,"SMTP error: """", expect ""220""",4,"ООО МетЧелСервис",https://metchelservice74.ru/meter-readings/,188.19.42.100
+"2025-08-15 08:10:26",,"MAIL LOG: ""2025-08-15 08:10:26 SERVER: 220 5-63-152-64.ovz.vps.regruhosting.ru ESMTP Exim 4.92.3 Fri, 15 Aug 2025 08:10:26 +0300
+2025-08-15 08:10:26 CLIENT: EHLO metchelservice74.ru
+2025-08-15 08:10:26 SERVER: 250-5-63-152-64.ovz.vps.regruhosting.ru Hello metchelservice74.ru [2a00:f940:2:1:2::ec3]
+2025-08-15 08:10:26 SERVER: 250-SIZE 52428800
+2025-08-15 08:10:26 SERVER: 250-8BITMIME
+2025-08-15 08:10:26 SERVER: 250-PIPELINING
+2025-08-15 08:10:26 SERVER: 250-AUTH PLAIN LOGIN CRAM-MD5
+2025-08-15 08:10:26 SERVER: 250-CHUNKING
+2025-08-15 08:10:26 SERVER: 250 HELP
+2025-08-15 08:10:26 CLIENT: AUTH LOGIN
+2025-08-15 08:10:26 SERVER: 334 VXNlcm5hbWU6
+2025-08-15 08:10:26 CLIENT: aW5mb0BtZXRjaGVsc2VydmljZTc0LnJ1
+2025-08-15 08:10:26 SERVER: 334 UGFzc3dvcmQ6
+2025-08-15 08:10:26 CLIENT: Yk0wd0IwYU83aQ==
+2025-08-15 08:10:26 SERVER: 235 Authentication succeeded
+2025-08-15 08:10:26 CLIENT: MAIL FROM: <info@metchelservice74.ru>
+2025-08-15 08:10:26 SERVER: 250 OK
+2025-08-15 08:10:26 CLIENT: RCPT TO: <info@metchelservice74.ru>
+2025-08-15 08:10:26 SERVER: 250 Accepted
+2025-08-15 08:10:26 CLIENT: DATA
+2025-08-15 08:10:26 SERVER: 354 Enter message, ending with ""."" on a line by itself
+2025-08-15 08:10:26 CLIENT: Date: Fri, 15 Aug 2025 08:10:26 +0300
+Subject: =?UTF-8?B?0J/QvtC60LDQt9Cw0L3QuNGPINGB0YfQtdGC0YfQuNC60L7Qsg==?=
+To: <info@metchelservice74.ru>
+From: info@metchelservice74.ru
+X-Mailer: HostCMS/7.1
+Reply-To: <info@metchelservice74.ru>
+Return-Path: <info@metchelservice74.ru>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+0J/QvtC60LDQt9Cw0L3QuNGPINGB0YfQtdGC0YfQuNC60L7QsjoK0JvQuNGG0LXQstC+0Lkg0YHR
+h9C10YI6IDM0NTM0NTM0NQrQndC+0LzQtdGAINC00L7QvNCwOiAzNDUK0J3QvtC80LXRgCDQutCy
+0LDRgNGC0LjRgNGLOiAzNDUK0KXQktChOiAzNDUK0JPQktChOiAzNDUK0KXQktChLTI6IDM0NQrQ
+k9CS0KEtMjogMzQ1Cg==
+
+
+.
+2025-08-15 08:10:26 SERVER: 250 OK id=1ummhu-0003PH-Tc
+2025-08-15 08:10:26 CLIENT: QUIT
+""",0,"ООО МетЧелСервис",https://metchelservice74.ru/meter-readings/,188.19.42.100
+"2025-08-15 08:12:58",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php,188.19.42.100
+"2025-08-15 08:13:04",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php,188.19.42.100
+"2025-08-15 08:13:12",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php?&secret_csrf=17552347843505ae2f96458a40db34b77bbdcab7f22c36459bc187c752d652bc8b03c36f5a,188.19.42.100
+"2025-08-15 08:13:13",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php?&secret_csrf=17552347843505ae2f96458a40db34b77bbdcab7f22c36459bc187c752d652bc8b03c36f5a,188.19.42.100
+"2025-08-15 08:13:18",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php?hostcms[current]=1&hostcms[sortingfield]=159&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][1]=1,188.19.42.100
+"2025-08-15 08:13:18",admin,"Действие ""Редактировать"" формы ""Сайты""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php?hostcms[current]=1&hostcms[sortingfield]=159&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][1]=1,188.19.42.100
+"2025-08-15 08:13:47",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,188.19.42.100
+"2025-08-15 08:13:51",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?&secret_csrf=1755234827796560cb91bd7e56b45f82f57fe2b48b503efdb657fad9cbb0d80cfba55847c7,188.19.42.100
+"2025-08-15 08:13:51",admin,"Действие ""Удалить"" формы ""Клиенты""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?&secret_csrf=1755234827796560cb91bd7e56b45f82f57fe2b48b503efdb657fad9cbb0d80cfba55847c7,188.19.42.100
+"2025-08-15 08:15:49",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 08:15:50",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=125,188.19.42.100
+"2025-08-15 08:26:33",admin,"Доступ к модулю ""site"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/site/index.php,188.19.42.100

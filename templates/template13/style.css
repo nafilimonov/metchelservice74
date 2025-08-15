@@ -1,0 +1,50 @@
+/* Page Style */
+body{
+	color: #523a3a;
+	font-family: Arial;
+    font-size: 12pt;
+	line-height: 14pt;
+}
+a {
+    color: #791a1f;
+}
+
+p{
+    margin-bottom: 0.3em;
+}
+.center, img.center {
+	text-align: center;
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#coming-soon{
+	background: rgba(0,0,0,0.0);
+    display: block;
+    position: absolute;
+    width: 800px;
+    height: 260px;
+    top: 50%;
+    left: 50%;
+    margin: -130px 0 0 -400px
+}
+#coming-soon h1{
+	text-align: center;
+	font-size: 25px;
+}
+#coming-soon img{
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+#coming-soon p{
+	text-align: center;
+}
+a.center {
+    margin-top: 10px;
+}

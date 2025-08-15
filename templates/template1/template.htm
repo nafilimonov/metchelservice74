@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title><?php Core_Page::instance()->showTitle()?></title>
+	<meta name="description" content="<?php Core_Page::instance()->showDescription()?>" />
+	<meta name="keywords" content="<?php Core_Page::instance()->showKeywords()?>" />
+	<meta content="text/html; charset=<?php echo SITE_CODING?>" http-equiv="Content-Type" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<?php Core_Page::instance()->showCss()?>
+	<?php Core_Browser::check()?>
+
+	<!-- jQuery -->
+	<script type="text/javascript" src="/hostcmsfiles/jquery/jquery.js"></script>
+	<!-- validate -->
+	<script type="text/javascript" src="/hostcmsfiles/jquery/jquery.validate.js"></script>
+	<!-- LightBox -->
+	<script type="text/javascript" src="/hostcmsfiles/jquery/lightbox/js/jquery.lightbox.js"></script>
+	<link rel="stylesheet" type="text/css" href="/hostcmsfiles/jquery/lightbox/css/jquery.lightbox.css" media="screen" />
+  
+	<script type="text/javascript" src="/templates/template1/hostcms.js"></script>
+	<script type="text/javascript" src="/hostcmsfiles/main.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/templates/template1/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="/templates/template1/slick-theme.css"/>
+    <script type="text/javascript" src="/templates/template1/slick.min.js"></script>
+
+	<script type="text/javascript">
+		// <![CDATA[
+		$(function() {
+			$('.gallery a[target="_blank"]:has(img)').lightBox();
+
+			// переход по ссылке(class="button")
+			$('.button:has(a[href])').click(function(){window.location.href = $(this).find('a').attr('href')});
+		});
+
+        $(document).ready(function(){
+            $('.more_photo').slick();
+        });
+
+		// ]]>
+	</script>
+</head>
+<body class="pageBody">
+<div id="wrapper">
+	<div id="header" class="content">
+        <div id="logo">
+            <a href="/" title="УК ГазСервис-1">
+                <img src="/images/logo.png" width="344" height="60" alt="УК ГазСервис-1" />
+            </a>
+        </div>
+        <div id="phone">
+            <?Core_Entity::factory('Document', 9)->Document_Versions->getCurrent()->execute();?>
+        </div>    
+	</div>
+    <?php
+        // Верхнее меню
+        $Structure_Controller_Show = new Structure_Controller_Show(
+            Core_Entity::factory('Site', CURRENT_SITE));
+
+        $Structure_Controller_Show->xsl(
+            Core_Entity::factory('Xsl')->getByName('ВерхнееМеню')
+        )
+        ->showShopGroups(TRUE)
+        ->showInformationsystemGroups(TRUE) 
+        ->menu(1)
+        ->show();
+	?>
+    <?php
+        Core_Page::instance()->execute();
+    ?>	
+	<div class="clear"></div>
+	<div id="spacer"></div>
+</div>
+<div id="footer">
+    <div class="content">
+        <?php
+            // Нижнее меню
+            $Structure_Controller_Show = new Structure_Controller_Show(
+                Core_Entity::factory('Site', CURRENT_SITE));
+
+                $Structure_Controller_Show
+                    ->xsl(Core_Entity::factory('Xsl')
+                        ->getByName('НижнееМеню'))
+                   ->showShopGroups(TRUE)
+                   ->showInformationsystemGroups(TRUE) 
+                    ->menu(1)
+                    ->show();
+        ?>
+    <div class="clear"></div>
+    <div class="right_block">
+		Создание сайта <a href="http://www.10bukv.ru" title="Создание сайта интернет-агенство Десять букв">Десять букв</a> / 
+		Работает на <a href="http://www.hostcms.ru" title="Система управления сайтом HostCMS">HostCMS</a>
+	</div>
+    </div>
+</div> 
+  
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter27111998 = new Ya.Metrika({id:27111998,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/27111998" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  
+</body>
+</html>

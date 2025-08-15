@@ -1,0 +1,8 @@
+/.idea/
+/cgi-bin/
+/admin/
+/modules/
+/upload/
+/*.jpg
+/*.png
+/files/

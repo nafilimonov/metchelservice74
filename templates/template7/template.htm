@@ -1,0 +1,106 @@
+<div id="slider">
+    <img src="/images/slide.jpg"/>
+</div>
+
+
+<div class="content">
+    <div class="features">
+        <div class="features-item">
+            <div class="features__title">Работаем с&nbsp;<span>2014</span> года</div>
+            <div class="features__text"><p>Мы&nbsp;работаем над тем, чтобы создать комфортные и&nbsp;безопасные условия для проживания в&nbsp;многоквартирном доме. А&nbsp;сделать жизнь горожан комфортной достаточно просто&nbsp;&mdash; нужно лишь любить свою работу и&nbsp;хорошо её&nbsp;выполнять.</p></div>
+        </div>
+
+        <div class="features-item">
+            <div class="features__title">Обслуживаем более <span>71&nbsp;704,7&nbsp;м<sup>2</sup></span> жилья</div>
+            <div class="features__text"><p>В&nbsp;обслуживании&nbsp;&mdash; 10&nbsp;многоквартирных домов, в&nbsp;пос. Рощино-5, и&nbsp;в&nbsp;Челябинске-5, общей площадью 71 704,7 м<sup>2</sup>.</p></div>
+        </div>
+
+        <div class="features-item">
+            <div class="features__title">Нам доверяют <span>1471 семей</span></div>
+            <div class="features__text"><p>Сохраняем и&nbsp;преумножаем комфорт в&nbsp;домах на&nbsp;протяжении более 10&nbsp;лет. Любим свою работу и&nbsp;гордимся достижениями, ежегодно отчитываемся о&nbsp;доходах и&nbsp;расходах.</p></div>
+        </div>
+    </div>
+</div>
+
+<div class="content">
+    <div class="gis">
+        <a href="https://dom.gosuslugi.ru/" class="myButton" target="_blank">Личный кабинет ГИС ЖКХ</a>
+    </div>
+</div>
+
+
+
+<div id="container" class="content">
+    <div id="left">
+        <?php
+            // Новости
+            if (Core::moduleIsActive('informationsystem'))
+            {
+                $Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+                    Core_Entity::factory('Informationsystem', 1)
+                );
+                $Informationsystem_Controller_Show
+                    ->xsl(
+                        Core_Entity::factory('Xsl')->getByName('СписокНовостейНаГлавной')
+                    )
+                    ->groupsMode('none')
+                    ->itemsForbiddenTags(array('text'))
+                    ->group(FALSE)
+                    ->limit(2)
+                    ->show();
+            }
+        ?>	
+    </div>
+    <div id="right">
+        <div>
+            <?php		
+                Core_Page::instance()->execute();
+            ?>
+        </div>
+				<div>
+					<p class="h2">Как вести себя при пожаре</p>
+	        <?php
+	          // Фото
+	          if (Core::moduleIsActive('informationsystem'))
+	          {
+	              $Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+	                  Core_Entity::factory('Informationsystem', 21)
+	              );
+	              $Informationsystem_Controller_Show
+	                  ->xsl(
+	                      Core_Entity::factory('Xsl')->getByName('СписокФотоНаГлавной')
+	                  )
+	                  ->groupsMode('none')
+	                  ->itemsForbiddenTags(array('text'))
+	                  ->group(FALSE)
+	                  ->limit(10)
+	                  ->show();
+	          }
+	        ?>
+        </div>
+			
+				<div>
+	        <?php
+	          // Лицензии
+	          if (Core::moduleIsActive('informationsystem'))
+	          {
+	              $Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+	                  Core_Entity::factory('Informationsystem', 20)
+	              );
+	              $Informationsystem_Controller_Show
+	                  ->xsl(
+	                      Core_Entity::factory('Xsl')->getByName('СписокЛицензийНаГлавной')
+	                  )
+	                  ->groupsMode('none')
+	                  ->itemsForbiddenTags(array('text'))
+	                  ->group(FALSE)
+	                  ->limit(10)
+	                  ->show();
+	          }
+	        ?>
+        </div>
+        <?
+            Core_Entity::factory('Document', 21)->Document_Versions->getCurrent()->execute();
+        ?>
+    </div>
+</div>

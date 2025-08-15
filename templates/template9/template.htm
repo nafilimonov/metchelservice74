@@ -1,0 +1,89 @@
+<div class="breadcrumbs">
+    <?php
+    // Вывод строки навигации
+    $Structure_Controller_Breadcrumbs = new Structure_Controller_Breadcrumbs(
+            Core_Entity::factory('Site', CURRENT_SITE)
+        );
+    $Structure_Controller_Breadcrumbs
+        ->xsl(
+            Core_Entity::factory('Xsl')->getByName('ХлебныеКрошки')
+        )
+        ->show();
+    ?>
+</div>
+<div id="container" class="content">
+    <div id="left">
+        <?php
+            $oStructure = Core_Entity::factory('Structure', CURRENT_STRUCTURE_ID);
+
+            while ($oStructure->parent_id)
+            {
+               $oStructure = $oStructure->getParent();
+            }
+            // Меню слева
+            $Structure_Controller_Show = new Structure_Controller_Show(
+                Core_Entity::factory('Site', CURRENT_SITE));
+
+            $Structure_Controller_Show->xsl(
+                Core_Entity::factory('Xsl')->getByName('ЛевоеМеню')
+            )
+            ->parentId($oStructure->id)
+            ->showInformationsystemGroups(TRUE);
+
+            if (is_object(Core_Page::instance()->object)
+               && get_class(Core_Page::instance()->object) == 'Informationsystem_Controller_Show')
+               {
+                  if (Core_Page::instance()->object->group)
+                  {
+                     $Structure_Controller_Show->addEntity(
+                        Core::factory('Core_Xml_Entity')
+                           ->name('informationsystem_group_id')
+                           ->value(intval(Core_Page::instance()->object->group))
+                     );
+                  }
+                  
+                  if (Core_Page::instance()->object->item)
+                  {
+                     $Structure_Controller_Show->addEntity(
+                        Core::factory('Core_Xml_Entity')
+                           ->name('informationsystem_item_id')
+                           ->value(intval(Core_Page::instance()->object->item))
+                     );
+                  }
+               }
+            $Structure_Controller_Show->show();
+        ?>
+        <?php
+            // Новости
+            if (Core::moduleIsActive('informationsystem'))
+            {
+                $Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+                    Core_Entity::factory('Informationsystem', 1)
+                );
+                $Informationsystem_Controller_Show
+                    ->xsl(
+                        Core_Entity::factory('Xsl')->getByName('СписокНовостейНаГлавной')
+                    )
+                    ->groupsMode('none')
+                    ->itemsForbiddenTags(array('text'))
+                    ->group(FALSE)
+                    ->limit(2)
+                    ->show();
+            }
+        ?>	
+    </div>
+    <div id="right">
+        <?php
+            // Объект узла
+            $oStructure = Core_Entity::factory('Structure', CURRENT_STRUCTURE_ID);
+            if ($oStructure->document_id)
+            {
+                $oDocument = $oStructure->Document;
+                echo '<h1>' . htmlspecialchars($oDocument->name) . '</h1>';
+            }
+        ?>
+        <?php		
+            Core_Page::instance()->execute();
+        ?>
+    </div>
+</div>

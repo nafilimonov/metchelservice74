@@ -1,0 +1,234 @@
+"2025-08-12 07:41:09",admin,"Вход в систему управления",4,-,http://metchelservice74.ru/admin/index.php,146.0.79.9
+"2025-08-12 07:41:10",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/calendar/index.php?loadEvents,146.0.79.9
+"2025-08-12 07:41:14",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:48:34",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:48:35",admin,"Запрошено обновление 6.9.3",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:48:35",admin,"Установка пакета обновлений 1181",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:48:35",admin,"Распаковка файла 1181_HostCMS.Update_6.9.3.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:48:42",admin,"Обновление ""6.9.3"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:48:42",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:48:46",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:03",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:03",admin,"Запрошено обновление 6.9.4",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:03",admin,"Установка пакета обновлений 1196",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:03",admin,"Распаковка файла 1196_HostCMS.Update_6.9.4.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:08",admin,"Обновление ""6.9.4"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:09",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:09",admin,"<strong>Замечание:</strong> Undefined index: update в файле /var/www/client_metchel/data/www/metchelservice74.ru/modules/core/orm.php (строка 1271)
+Стек вызовов:
+Файл: modules/core/orm.php, строка 1271,
+Файл: modules/core/orm.php, строка 1099,
+Файл: modules/core/orm.php, строка 1521,
+Файл: modules/skin/bootstrap/admin/form/controller/list.php, строка 672,
+Файл: modules/skin/bootstrap/admin/form/controller/list.php, строка 105,
+Файл: modules/admin/form/controller.php, строка 1086,
+Файл: modules/admin/form/controller.php, строка 1293,
+Файл: admin/update/index.php, строка 58",2,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:10",admin,"SMTP error: ""535 5.7.0 NEOBHODIM parol prilozheniya https://help.mail.ru/mail/security/protection/external / Application password is REQUIRED
+"", expect ""235""",4,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:26",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:33",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:44",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:44",admin,"Запрошено обновление 6.9.5",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:44",admin,"Установка пакета обновлений 1216",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:44",admin,"Распаковка файла 1216_HostCMS.Update_6.9.5.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:50",admin,"Обновление ""6.9.5"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:49:50",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:50:02",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:50:06",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:50:06",admin,"Запрошено обновление 6.9.6",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:50:06",admin,"Установка пакета обновлений 1238",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:50:06",admin,"Распаковка файла 1238_HostCMS.Update_6.9.6.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:50:12",admin,"Обновление ""6.9.6"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:50:12",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:50:20",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:43",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:43",admin,"Запрошено обновление 6.9.7",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:43",admin,"Установка пакета обновлений 1258",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:43",admin,"Empty update_list_file",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:43",admin,"Установка пакета обновлений 1259",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:44",admin,"Распаковка файла 1259_HostCMS.Update_6.9.7.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:48",admin,"Обновление ""6.9.7"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:48",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:56",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:51:58",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:03",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:03",admin,"Запрошено обновление 6.9.8",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:03",admin,"Установка пакета обновлений 1280",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:03",admin,"Распаковка файла 1280_HostCMS.Update_6.9.8.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:08",admin,"Обновление ""6.9.8"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:08",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:29",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:29",admin,"Запрошено обновление 6.9.9",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:29",admin,"Установка пакета обновлений 1295",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:29",admin,"Распаковка файла 1295_HostCMS.Update_6.9.9.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:34",admin,"Обновление ""6.9.9"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:34",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:34",admin,"The property 'modal' does not exist in the model 'admin_form_action'
+modules/core/orm.php:1514 Core_Exception->__construct
+modules/skin/bootstrap/admin/form/controller/list.php:1113 Core_ORM->__get
+modules/skin/bootstrap/admin/form/controller/list.php:109 Skin_Bootstrap_Admin_Form_Controller_List->_showContent
+modules/admin/form/controller.php:1119 Skin_Bootstrap_Admin_Form_Controller_List->execute
+modules/admin/form/controller.php:1475 Admin_Form_Controller->perform
+admin/update/index.php:66 Admin_Form_Controller->execute",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:44",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:52:47",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:00",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:00",admin,"Запрошено обновление 7.0.0",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:00",admin,"Установка пакета обновлений 1316",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:00",admin,"Распаковка файла 1316_HostCMS.Update_7.0.0.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:04",admin,"Обновление ""7.0.0"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:04",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:04",admin,"The method 'changeAction' does not exist in 'Skin_Bootstrap_Admin_Form_Controller'
+modules/core/servant/properties.php:187 Core_Exception->__construct
+modules/skin/bootstrap/admin/form/controller/list.php:1071 Core_Servant_Properties->__call
+modules/skin/bootstrap/admin/form/controller/list.php:109 Skin_Bootstrap_Admin_Form_Controller_List->_showContent
+modules/admin/form/controller.php:1133 Skin_Bootstrap_Admin_Form_Controller_List->execute
+modules/admin/form/controller.php:1489 Admin_Form_Controller->perform
+admin/update/index.php:66 Admin_Form_Controller->execute",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:08",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:12",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:38",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:39",admin,"Запрошено обновление 7.0.1",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:39",admin,"Установка пакета обновлений 1340",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:39",admin,"Распаковка файла 1340_HostCMS.Update_7.0.1.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:39",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:39",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:39",admin,"Обновление ""7.0.1"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:39",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:46",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:56",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:57",admin,"Запрошено обновление 7.0.2",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:57",admin,"Установка пакета обновлений 1355",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:57",admin,"Распаковка файла 1355_HostCMS.Update_7.0.2.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:57",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:58",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:58",admin,"Обновление ""7.0.2"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:53:58",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:00",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:03",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:32",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:37",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:37",admin,"Запрошено обновление 7.0.3",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:37",admin,"Установка пакета обновлений 1377",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:38",admin,"Распаковка файла 1377_HostCMS.Update_7.0.3.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:38",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:39",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:39",admin,"Обновление ""7.0.3"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:39",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:42",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:52",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:52",admin,"Запрошено обновление 7.0.4",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:52",admin,"Установка пакета обновлений 1401",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:53",admin,"Распаковка файла 1401_HostCMS.Update_7.0.4.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:53",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:54",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:54",admin,"Обновление ""7.0.4"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:54",admin,"Выполнено действие ""Установить"", формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:57",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:54:59",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:10",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:10",admin,"Запрошено обновление 7.0.5",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:10",admin,"Установка пакета обновлений 1427",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:11",admin,"Распаковка файла 1427_HostCMS.Update_7.0.5.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:11",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:13",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:13",admin,"Обновление ""7.0.5"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:13",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:19",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:21",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:29",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:30",admin,"Запрошено обновление 7.0.6",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:30",admin,"Установка пакета обновлений 1452",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:30",admin,"Распаковка файла 1452_HostCMS.Update_7.0.6.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:30",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:32",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:32",admin,"Обновление ""7.0.6"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:32",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:52",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:56",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:57",admin,"Запрошено обновление 7.0.7",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:57",admin,"Установка пакета обновлений 1472",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:57",admin,"Распаковка файла 1472_HostCMS.Update_7.0.7.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:57",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:59",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:59",admin,"Обновление ""7.0.7"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:55:59",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:56:03",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:56:05",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:56:23",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549745653046a827751530db6084320c99e8e73493bedf99703119111bab7077ea4ab3a2,146.0.79.9
+"2025-08-12 07:56:24",admin,"Запрошено обновление 7.0.8",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549745653046a827751530db6084320c99e8e73493bedf99703119111bab7077ea4ab3a2,146.0.79.9
+"2025-08-12 07:56:24",admin,"Установка пакета обновлений 1499",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549745653046a827751530db6084320c99e8e73493bedf99703119111bab7077ea4ab3a2,146.0.79.9
+"2025-08-12 07:56:24",admin,"Распаковка файла 1499_HostCMS.Update_7.0.8.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549745653046a827751530db6084320c99e8e73493bedf99703119111bab7077ea4ab3a2,146.0.79.9
+"2025-08-12 07:56:24",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549745653046a827751530db6084320c99e8e73493bedf99703119111bab7077ea4ab3a2,146.0.79.9
+"2025-08-12 07:56:26",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549745653046a827751530db6084320c99e8e73493bedf99703119111bab7077ea4ab3a2,146.0.79.9
+"2025-08-12 07:56:26",admin,"Обновление ""7.0.8"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549745653046a827751530db6084320c99e8e73493bedf99703119111bab7077ea4ab3a2,146.0.79.9
+"2025-08-12 07:56:26",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549745653046a827751530db6084320c99e8e73493bedf99703119111bab7077ea4ab3a2,146.0.79.9
+"2025-08-12 07:56:29",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:56:31",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:56:58",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974591d9af438268c8ce3768ef607a41ecb7671c68053e886b996f76da42bc4e2e8ffd,146.0.79.9
+"2025-08-12 07:56:58",admin,"Запрошено обновление 7.0.9",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974591d9af438268c8ce3768ef607a41ecb7671c68053e886b996f76da42bc4e2e8ffd,146.0.79.9
+"2025-08-12 07:56:58",admin,"Установка пакета обновлений 1522",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974591d9af438268c8ce3768ef607a41ecb7671c68053e886b996f76da42bc4e2e8ffd,146.0.79.9
+"2025-08-12 07:56:58",admin,"Распаковка файла 1522_HostCMS.Update_7.0.9.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974591d9af438268c8ce3768ef607a41ecb7671c68053e886b996f76da42bc4e2e8ffd,146.0.79.9
+"2025-08-12 07:56:58",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974591d9af438268c8ce3768ef607a41ecb7671c68053e886b996f76da42bc4e2e8ffd,146.0.79.9
+"2025-08-12 07:57:00",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974591d9af438268c8ce3768ef607a41ecb7671c68053e886b996f76da42bc4e2e8ffd,146.0.79.9
+"2025-08-12 07:57:00",admin,"Обновление ""7.0.9"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974591d9af438268c8ce3768ef607a41ecb7671c68053e886b996f76da42bc4e2e8ffd,146.0.79.9
+"2025-08-12 07:57:00",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974591d9af438268c8ce3768ef607a41ecb7671c68053e886b996f76da42bc4e2e8ffd,146.0.79.9
+"2025-08-12 07:57:04",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:57:07",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:57:21",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974627d2bf63c4f94a1df50dd77668d04f1a3459a68d1c4c6c014f68e4ba4b98c18bf3,146.0.79.9
+"2025-08-12 07:57:21",admin,"Запрошено обновление 7.1.0",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974627d2bf63c4f94a1df50dd77668d04f1a3459a68d1c4c6c014f68e4ba4b98c18bf3,146.0.79.9
+"2025-08-12 07:57:21",admin,"Установка пакета обновлений 1535",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974627d2bf63c4f94a1df50dd77668d04f1a3459a68d1c4c6c014f68e4ba4b98c18bf3,146.0.79.9
+"2025-08-12 07:57:21",admin,"Распаковка файла 1535_HostCMS.Update_7.1.0.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974627d2bf63c4f94a1df50dd77668d04f1a3459a68d1c4c6c014f68e4ba4b98c18bf3,146.0.79.9
+"2025-08-12 07:57:22",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974627d2bf63c4f94a1df50dd77668d04f1a3459a68d1c4c6c014f68e4ba4b98c18bf3,146.0.79.9
+"2025-08-12 07:57:22",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974627d2bf63c4f94a1df50dd77668d04f1a3459a68d1c4c6c014f68e4ba4b98c18bf3,146.0.79.9
+"2025-08-12 07:57:22",admin,"Обновление ""7.1.0"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974627d2bf63c4f94a1df50dd77668d04f1a3459a68d1c4c6c014f68e4ba4b98c18bf3,146.0.79.9
+"2025-08-12 07:57:22",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974627d2bf63c4f94a1df50dd77668d04f1a3459a68d1c4c6c014f68e4ba4b98c18bf3,146.0.79.9
+"2025-08-12 07:57:26",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:57:28",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:57:34",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974648c4053c924500c8989bb98bd65b9e0b932b9270db0b27627a7c4481a3d7457fbe,146.0.79.9
+"2025-08-12 07:57:34",admin,"Запрошено обновление 7.1.1",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974648c4053c924500c8989bb98bd65b9e0b932b9270db0b27627a7c4481a3d7457fbe,146.0.79.9
+"2025-08-12 07:57:34",admin,"Установка пакета обновлений 1555",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974648c4053c924500c8989bb98bd65b9e0b932b9270db0b27627a7c4481a3d7457fbe,146.0.79.9
+"2025-08-12 07:57:34",admin,"Распаковка файла 1555_HostCMS.Update_7.1.1.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974648c4053c924500c8989bb98bd65b9e0b932b9270db0b27627a7c4481a3d7457fbe,146.0.79.9
+"2025-08-12 07:57:35",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974648c4053c924500c8989bb98bd65b9e0b932b9270db0b27627a7c4481a3d7457fbe,146.0.79.9
+"2025-08-12 07:57:36",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974648c4053c924500c8989bb98bd65b9e0b932b9270db0b27627a7c4481a3d7457fbe,146.0.79.9
+"2025-08-12 07:57:36",admin,"Обновление ""7.1.1"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974648c4053c924500c8989bb98bd65b9e0b932b9270db0b27627a7c4481a3d7457fbe,146.0.79.9
+"2025-08-12 07:57:36",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974648c4053c924500c8989bb98bd65b9e0b932b9270db0b27627a7c4481a3d7457fbe,146.0.79.9
+"2025-08-12 07:57:38",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:57:41",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:57:48",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549746612300044528c5c206fb406f6f3e80fed43047d28e330e9593ebbb552168503bca,146.0.79.9
+"2025-08-12 07:57:48",admin,"Запрошено обновление 7.1.2",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549746612300044528c5c206fb406f6f3e80fed43047d28e330e9593ebbb552168503bca,146.0.79.9
+"2025-08-12 07:57:48",admin,"Установка пакета обновлений 1581",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549746612300044528c5c206fb406f6f3e80fed43047d28e330e9593ebbb552168503bca,146.0.79.9
+"2025-08-12 07:57:48",admin,"Распаковка файла 1581_HostCMS.Update_7.1.2.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549746612300044528c5c206fb406f6f3e80fed43047d28e330e9593ebbb552168503bca,146.0.79.9
+"2025-08-12 07:57:48",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549746612300044528c5c206fb406f6f3e80fed43047d28e330e9593ebbb552168503bca,146.0.79.9
+"2025-08-12 07:57:49",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549746612300044528c5c206fb406f6f3e80fed43047d28e330e9593ebbb552168503bca,146.0.79.9
+"2025-08-12 07:57:49",admin,"Обновление ""7.1.2"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549746612300044528c5c206fb406f6f3e80fed43047d28e330e9593ebbb552168503bca,146.0.79.9
+"2025-08-12 07:57:49",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=17549746612300044528c5c206fb406f6f3e80fed43047d28e330e9593ebbb552168503bca,146.0.79.9
+"2025-08-12 07:57:54",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:57:56",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:58:02",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=175497467663af82d933187b2926570200b2682710f278273fd634e57282ecedf7ea9ffe0d,146.0.79.9
+"2025-08-12 07:58:02",admin,"Запрошено обновление 7.1.3",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=175497467663af82d933187b2926570200b2682710f278273fd634e57282ecedf7ea9ffe0d,146.0.79.9
+"2025-08-12 07:58:02",admin,"Установка пакета обновлений 1610",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=175497467663af82d933187b2926570200b2682710f278273fd634e57282ecedf7ea9ffe0d,146.0.79.9
+"2025-08-12 07:58:03",admin,"Распаковка файла 1610_HostCMS.Update_7.1.3.tar.gz",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=175497467663af82d933187b2926570200b2682710f278273fd634e57282ecedf7ea9ffe0d,146.0.79.9
+"2025-08-12 07:58:03",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=175497467663af82d933187b2926570200b2682710f278273fd634e57282ecedf7ea9ffe0d,146.0.79.9
+"2025-08-12 07:58:05",admin,"Выполнение инструкций из файла",0,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=175497467663af82d933187b2926570200b2682710f278273fd634e57282ecedf7ea9ffe0d,146.0.79.9
+"2025-08-12 07:58:05",admin,"Обновление ""7.1.3"" установлено.",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=175497467663af82d933187b2926570200b2682710f278273fd634e57282ecedf7ea9ffe0d,146.0.79.9
+"2025-08-12 07:58:05",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/update/index.php?&secret_csrf=175497467663af82d933187b2926570200b2682710f278273fd634e57282ecedf7ea9ffe0d,146.0.79.9
+"2025-08-12 07:58:07",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:58:10",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:58:21",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974690b3eb757a5da464ce08c0a33ae5ef17a826033f38fb6e1d0179f76a6e13b11863,146.0.79.9
+"2025-08-12 07:58:21",admin,"Запрошено обновление 7.1.4",0,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974690b3eb757a5da464ce08c0a33ae5ef17a826033f38fb6e1d0179f76a6e13b11863,146.0.79.9
+"2025-08-12 07:58:21",admin,"Установка пакета обновлений 1626",0,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974690b3eb757a5da464ce08c0a33ae5ef17a826033f38fb6e1d0179f76a6e13b11863,146.0.79.9
+"2025-08-12 07:58:22",admin,"Распаковка файла 1626_HostCMS.Update_7.1.4.tar.gz",0,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974690b3eb757a5da464ce08c0a33ae5ef17a826033f38fb6e1d0179f76a6e13b11863,146.0.79.9
+"2025-08-12 07:58:22",admin,"Выполнение SQL-запросов",0,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974690b3eb757a5da464ce08c0a33ae5ef17a826033f38fb6e1d0179f76a6e13b11863,146.0.79.9
+"2025-08-12 07:58:22",admin,"Обновление ""7.1.4"" установлено.",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974690b3eb757a5da464ce08c0a33ae5ef17a826033f38fb6e1d0179f76a6e13b11863,146.0.79.9
+"2025-08-12 07:58:22",admin,"Действие ""Установить"" формы ""Обновления""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php?&secret_csrf=1754974690b3eb757a5da464ce08c0a33ae5ef17a826033f38fb6e1d0179f76a6e13b11863,146.0.79.9
+"2025-08-12 07:58:25",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:58:33",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:58:35",admin,"Доступ к модулю ""update"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/update/index.php,146.0.79.9
+"2025-08-12 07:58:42",admin,"Доступ к модулю ""user"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/user/index.php,146.0.79.9
+"2025-08-12 07:58:44",admin,"Доступ к модулю ""user"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/user/session/index.php,146.0.79.9
+"2025-08-12 07:58:45",admin,"Доступ к модулю ""crm_project"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/crm/project/index.php,146.0.79.9
+"2025-08-12 07:58:47",admin,"Доступ к модулю ""event"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/event/index.php,146.0.79.9
+"2025-08-12 07:58:50",admin,"Доступ к модулю ""bot"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/bot/index.php,146.0.79.9
+"2025-08-12 07:58:53",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,146.0.79.9

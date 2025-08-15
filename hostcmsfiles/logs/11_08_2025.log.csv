@@ -1,0 +1,10 @@
+"2025-08-11 08:13:52",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/calendar/index.php?loadEvents,176.226.178.32
+"2025-08-11 08:13:54",admin,"Доступ к модулю ""informationsystem"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/informationsystem/index.php,176.226.178.32
+"2025-08-11 08:13:57",admin,"Доступ к модулю ""document"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/document/index.php,176.226.178.32
+"2025-08-11 08:13:59",admin,"Доступ к модулю ""document"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/document/index.php,176.226.178.32
+"2025-08-11 08:14:21",admin,"Доступ к модулю ""wysiwyg"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/wysiwyg/filemanager/index.php?field_name=&cdir=&dir=&type=image,176.226.178.32
+"2025-08-11 08:14:27",admin,"Доступ к модулю ""wysiwyg"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/wysiwyg/filemanager/index.php?cdir=%2F&dir=images,176.226.178.32
+"2025-08-11 08:14:57",admin,"Доступ к модулю ""wysiwyg"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/wysiwyg/filemanager/index.php?hostcms[action]=uploadFile&hostcms[checked][1][0]=1&cdir=%2Fimages%2F,176.226.178.32
+"2025-08-11 08:14:57",admin,"Выполнено действие ""Загрузить файл"", формы ""Файловый менеджер для визуального редактора""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/wysiwyg/filemanager/index.php?hostcms[action]=uploadFile&hostcms[checked][1][0]=1&cdir=%2Fimages%2F,176.226.178.32
+"2025-08-11 08:15:23",admin,"Доступ к модулю ""document"" разрешен",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/document/index.php?hostcms[checked][1][2]=1,176.226.178.32
+"2025-08-11 08:15:23",admin,"Выполнено действие ""Редактировать"", формы ""Страницы""",1,"ООО МетЧелСервис",http://metchelservice74.ru/admin/document/index.php?hostcms[checked][1][2]=1,176.226.178.32

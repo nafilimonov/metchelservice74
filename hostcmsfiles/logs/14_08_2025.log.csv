@@ -1,0 +1,34 @@
+"2025-08-14 04:28:29",,"<strong>Предупреждение:</strong> Undefined array key &quot;fio&quot; в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 6)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 6",3,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:30",,"SMTP error: ""535 5.7.0 NEOBHODIM parol prilozheniya https://help.mail.ru/mail/security/protection/external / Application password is REQUIRED
+"", expect ""235""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:30",,"<strong>Deprecated:</strong> nl2br(): Passing null to parameter #1 ($string) of type string is deprecated в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 6)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 6",2,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:30",,"<strong>Предупреждение:</strong> Undefined array key &quot;mail&quot; в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 7)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 7",3,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:31",,"SMTP error: ""535 5.7.0 NEOBHODIM parol prilozheniya https://help.mail.ru/mail/security/protection/external / Application password is REQUIRED
+"", expect ""235""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:31",,"<strong>Deprecated:</strong> nl2br(): Passing null to parameter #1 ($string) of type string is deprecated в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 7)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 7",2,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:31",,"<strong>Предупреждение:</strong> Undefined array key &quot;phone&quot; в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 8)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 8",3,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:32",,"SMTP error: ""535 5.7.0 NEOBHODIM parol prilozheniya https://help.mail.ru/mail/security/protection/external / Application password is REQUIRED
+"", expect ""235""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:32",,"<strong>Deprecated:</strong> nl2br(): Passing null to parameter #1 ($string) of type string is deprecated в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 8)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 8",2,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:32",,"<strong>Предупреждение:</strong> Undefined array key &quot;comment&quot; в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 9)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 9",3,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:33",,"SMTP error: ""535 5.7.0 NEOBHODIM parol prilozheniya https://help.mail.ru/mail/security/protection/external / Application password is REQUIRED
+"", expect ""235""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:33",,"<strong>Deprecated:</strong> nl2br(): Passing null to parameter #1 ($string) of type string is deprecated в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 9)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 9",2,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
+"2025-08-14 04:28:35",,"SMTP error: ""535 5.7.0 NEOBHODIM parol prilozheniya https://help.mail.ru/mail/security/protection/external / Application password is REQUIRED
+"", expect ""235""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.79.133
