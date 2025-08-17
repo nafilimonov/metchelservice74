@@ -18,6 +18,16 @@
 	<xsl:template match="/informationsystem">
 		<xsl:variable name="group" select="group"/>
 		<div>
+
+            <xsl:choose>
+                <xsl:when test="/informationsystem/siteuser_id = 0">
+                    <div id="error">Для просмотра документов <a href="/users/">авторизуйтесь</a></div>
+                </xsl:when>
+                <xsl:otherwise>
+
+                </xsl:otherwise>
+            </xsl:choose>
+
 			<xsl:apply-templates select="informationsystem_group" mode="Crumbs"/>
 		</div>
 	</xsl:template>
@@ -26,11 +36,11 @@
 		<xsl:variable name="group_id" select="@id"/>
 		
 	<div class="fond-huse-group"><b><xsl:value-of select="name"/></b></div>
-		
-		<ol class="fond-huse">
-			<xsl:apply-templates select="//informationsystem_item[informationsystem_group_id=$group_id]"/>
-		</ol>
-		
+
+        <ol class="fond-huse">
+            <xsl:apply-templates select="//informationsystem_item[informationsystem_group_id=$group_id]"/>
+        </ol>
+
 		<xsl:if test="shop_group">
 			<xsl:apply-templates select="informationsystem_group" mode="Crumbs"/>
 		</xsl:if>
@@ -44,7 +54,7 @@
 		<li>
 			<span><xsl:value-of select="name"/></span>
 			
-			<xsl:if test="property_value[tag_name='OH']/file != ''">
+			<xsl:if test="/informationsystem/siteuser_id != 0 and property_value[tag_name='OH']/file != ''">
 				
 				<xsl:for-each select="property_value[tag_name = 'OH']">
 					

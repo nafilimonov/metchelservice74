@@ -254,3 +254,81 @@ k9CS0KEtMjogMzQ1Cg==
 "2025-08-15 09:06:51",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=139,188.19.42.100
 "2025-08-15 09:06:51",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?xsl_dir_id=12&lib_property_id=138,188.19.42.100
 "2025-08-15 09:06:53",admin,"Доступ к модулю ""lib"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lib/index.php?hostcms[action]=edit&hostcms[current]=1&hostcms[sortingfield]=339&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&lib_dir_id=16&hostcms[checked][1][24]=1,188.19.42.100
+"2025-08-15 09:17:24",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php,188.19.42.100
+"2025-08-15 09:17:30",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php?&secret_csrf=17552386443a0485816039796609c71ebaad738cbc06608e770143616b86ba3db5aa2ba52b,188.19.42.100
+"2025-08-15 09:17:39",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php?&secret_csrf=1755238650e43dfada05137136362d036d203212f96d5f50d9c466f0b069d369311da45e28,188.19.42.100
+"2025-08-15 09:17:41",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php?constant_dir_id=0&hostcms[checked][1][1]=1,188.19.42.100
+"2025-08-15 09:17:41",admin,"Действие ""Изменить статус активности"" формы ""Константы""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php?constant_dir_id=0&hostcms[checked][1][1]=1,188.19.42.100
+"2025-08-15 09:17:48",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[action]=edit&hostcms[checked][0][0]=1&hostcmsMode=blank,188.19.42.100
+"2025-08-15 09:17:48",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 09:17:50",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?hostcms[action]=edit&hostcms[checked][0][0]=1&hostcmsMode=blank,188.19.42.100
+"2025-08-15 09:18:14",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php?constant_dir_id=0&secret_csrf=175523866133e1d4dd90bbd9f2daa8f29efc31889b3b5ff5d46765829d81a409121803c14f,188.19.42.100
+"2025-08-15 09:18:19",admin,"Доступ к модулю ""constant"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/constant/index.php?constant_dir_id=0&secret_csrf=1755238694e5c9459678c90e1417d7d9ab68e6127f1d1d5ce9c3c47fa04abb4d7723116963,188.19.42.100
+"2025-08-15 09:24:32",admin,"Доступ к модулю ""lib"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lib/index.php,188.19.42.100
+"2025-08-15 09:24:34",admin,"Доступ к модулю ""lib"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lib/index.php?lib_dir_id=15,188.19.42.100
+"2025-08-15 09:25:34",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php,188.19.42.100
+"2025-08-15 09:25:39",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=3,188.19.42.100
+"2025-08-15 09:25:45",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=3&secret_csrf=1755239139b2dec731ce66539acacfb41ec31ce021efba720908c38ac43cab0be930496aee,188.19.42.100
+"2025-08-15 09:30:51",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php,188.19.42.100
+"2025-08-15 09:30:52",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=83,188.19.42.100
+"2025-08-15 09:30:59",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=83&secret_csrf=175523945317eb5c451d4da76f7fc855c8f76eda676d9dc61264a7c554e4860d0660696dd6,188.19.42.100
+"2025-08-15 09:31:11",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?hostcms[current]=1&hostcms[sortingfield]=85&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&xsl_dir_id=83&hostcms[checked][1][234]=1,188.19.42.100
+"2025-08-15 09:32:28",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=3&secret_csrf=1755239139b2dec731ce66539acacfb41ec31ce021efba720908c38ac43cab0be930496aee,188.19.42.100
+"2025-08-15 09:32:33",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=83&,188.19.42.100
+"2025-08-15 09:32:36",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=83&secret_csrf=1755239553a315d30aca953cbe861419ac747a36899a1b3c88a623b20d5123e159fd1543c9,188.19.42.100
+"2025-08-15 09:33:18",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/index.php,188.19.42.100
+"2025-08-15 09:33:23",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:33:43",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:33:43",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:34:10",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:34:10",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:36:02",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php,188.19.42.100
+"2025-08-15 09:36:06",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=83,188.19.42.100
+"2025-08-15 09:36:15",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=83&secret_csrf=17552397675e582c94ac947c4eb00d810ecbb50151ef7719805015384a540d0d61c8b5b36d,188.19.42.100
+"2025-08-15 09:38:47",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:38:47",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:39:08",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php,188.19.42.100
+"2025-08-15 09:39:09",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=83,188.19.42.100
+"2025-08-15 09:39:52",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:39:52",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:41:14",admin,"Доступ к модулю ""lib"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/lib/index.php,188.19.42.100
+"2025-08-15 09:41:16",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 09:41:20",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?parent_id=91,188.19.42.100
+"2025-08-15 09:41:26",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php,188.19.42.100
+"2025-08-15 09:41:30",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?&secret_csrf=1755240086b36cbab2e785615dd0696bc0486d2a6307ef3f1a2a9013e8e26ff424e606aed9,188.19.42.100
+"2025-08-15 09:41:31",admin,"Доступ к модулю ""structure"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/structure/index.php?lib_id=0,188.19.42.100
+"2025-08-15 09:41:54",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php,188.19.42.100
+"2025-08-15 09:41:56",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?xsl_dir_id=83,188.19.42.100
+"2025-08-15 09:42:44",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?hostcms[action]=edit&xsl_dir_id=83&hostcms[checked][1][241]=1&hostcmsMode=blank,188.19.42.100
+"2025-08-15 09:42:46",admin,"Доступ к модулю ""xsl"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/xsl/index.php?hostcms[action]=edit&xsl_dir_id=83&hostcms[checked][1][241]=1&hostcmsMode=blank,188.19.42.100
+"2025-08-15 09:43:44",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:43:44",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:44:59",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 09:44:59",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,188.19.42.100
+"2025-08-15 14:13:00",,"<strong>Предупреждение:</strong> unlink(/var/www/client_metchel/data/www/metchelservice74.ru/hostcmsfiles/cache/structure_show/2/f/d/2fd111eab914593c93928905f5da40f8.ch): No such file or directory в файле /var/www/client_metchel/data/www/metchelservice74.ru/modules/core/file.php (строка 264)
+Стек вызовов:
+Файл: modules/core/file.php, строка 264,
+Файл: modules/cache/file.php, строка 256,
+Файл: modules/cache/file.php, строка 241,
+Файл: modules/cache/file.php, строка 143,
+Файл: modules/structure/controller/show.php, строка 304,
+Файл: templates/template1/template.htm, строка 87,
+Файл: modules/template/model.php, строка 107,
+Файл: modules/core/page.php, строка 178,
+Файл: modules/core/command/controller/default.php, строка 708,
+Файл: modules/core/router/route.php, строка 280,
+Файл: modules/core/router/route.php, строка 290,
+Файл: index.php, строка 404",3,"ООО МетЧелСервис",https://metchelservice74.ru/ask-a-question/,178.20.46.206
+"2025-08-15 14:13:00",,"Delete file 'hostcmsfiles/cache/structure_show/2/f/d/2fd111eab914593c93928905f5da40f8.ch' error. 
+modules/core/file.php:268 Core_Exception->__construct
+modules/cache/file.php:256 Core_File::delete
+modules/cache/file.php:241 Cache_File->_delete
+modules/cache/file.php:143 Cache_File->delete
+modules/structure/controller/show.php:304 Cache_File->get
+templates/template1/template.htm:87 Structure_Controller_Show->show
+modules/template/model.php:107 include
+modules/core/page.php:178 Template_Model->execute
+modules/core/command/controller/default.php:708 Core_Page->execute
+modules/core/router/route.php:280 Core_Command_Controller_Default->showAction
+modules/core/router/route.php:290 Core_Router_Route->{closure}
+index.php:404 Core_Router_Route->execute",0,"ООО МетЧелСервис",https://metchelservice74.ru/ask-a-question/,178.20.46.206

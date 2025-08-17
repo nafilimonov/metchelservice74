@@ -114,13 +114,18 @@
 			</div>
 		</xsl:if>
 
+        <xsl:if test="count(property_value[property_dir_id = 3 and ( value != '' or file != '')])">
+            <h3>Документы и материалы</h3>
+            <xsl:choose>
+                <xsl:when test="/informationsystem/siteuser_id = 0">
+                    <div id="error">Для просмотра документов <a href="/users/">авторизуйтесь</a></div>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates select="property_value[property_dir_id = 3 and ( value != '' or file != '')]"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:if>
 
-
-		<xsl:if test="count(property_value[property_dir_id = 3 and ( value != '' or file != '')])">
-			<h3>Документы и материалы</h3>
-			<xsl:apply-templates select="property_value[property_dir_id = 3 and ( value != '' or file != '')]"/>
-		</xsl:if>
-		
 		<!-- Если указано отображать комментарии -->
 		<xsl:if test="/informationsystem/show_comments/node() and /informationsystem/show_comments = 1">
 			

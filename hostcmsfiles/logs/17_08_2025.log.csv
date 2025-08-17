@@ -1,0 +1,44 @@
+"2025-08-17 10:21:57",admin,"Вход в систему управления",4,-,https://metchelservice74.ru/admin/index.php,176.226.178.32
+"2025-08-17 10:22:00",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/calendar/index.php?loadEvents,176.226.178.32
+"2025-08-17 10:22:47",admin,"Доступ к модулю ""user"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/user/index.php,176.226.178.32
+"2025-08-17 10:22:52",admin,"Доступ к модулю ""user"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/user/index.php?&secret_csrf=1755415367983890c5bd2f45ece530f49bcf7a606b08088292704c7ede3369fbc195fb58bc,176.226.178.32
+"2025-08-17 10:23:01",admin,"Доступ к модулю ""user"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/user/index.php?hostcms[current]=1&hostcms[sortingfield]=33&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&admin_form_filter_32=0&hostcms[checked][0][19]=1,176.226.178.32
+"2025-08-17 10:23:04",admin,"Выход из системы управления",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/logout.php?secret_csrf=175541531897db34e5a9d256d5c437b86163eb6f033829f25d6f5ec60f0bb65d714c0a7840,176.226.178.32
+"2025-08-17 10:23:13",admin,"Вход в систему управления",4,-,https://metchelservice74.ru/admin/index.php,176.226.178.32
+"2025-08-17 10:23:15",admin,"Доступ к модулю ""calendar"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/calendar/index.php?loadEvents,176.226.178.32
+"2025-08-17 10:26:22",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,176.226.178.32
+"2025-08-17 10:26:30",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?&secret_csrf=175541558286dbfbcfebc178a0eaa2d0535f31e80eedc10721f12a98fed7adb4f63a38988b,176.226.178.32
+"2025-08-17 10:26:30",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/email/index.php?siteuser_id=3&show_subs=1&parentWindowId=id_content,176.226.178.32
+"2025-08-17 10:26:30",admin,"Доступ к модулю ""shop"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/shop/order/index.php?siteuser_id=3&show_subs=1&parentWindowId=id_content,176.226.178.32
+"2025-08-17 10:26:31",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/note/index.php?siteuser_id=3,176.226.178.32
+"2025-08-17 10:26:31",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/timeline/index.php?siteuser_id=3&parentWindowId=id_content,176.226.178.32
+"2025-08-17 10:26:31",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/event/index.php?siteuser_id=3&show_subs=1&parentWindowId=id_content,176.226.178.32
+"2025-08-17 10:26:39",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,176.226.178.32
+"2025-08-17 10:26:47",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?&secret_csrf=17554155994bb3fff61f1ee9f4fe55c3a8d1e0f32a1bb151d14703ccca97688ee85f46deb8,176.226.178.32
+"2025-08-17 10:26:47",admin,"Действие ""Удалить"" формы ""Клиенты""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?&secret_csrf=17554155994bb3fff61f1ee9f4fe55c3a8d1e0f32a1bb151d14703ccca97688ee85f46deb8,176.226.178.32
+"2025-08-17 10:30:18",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,176.226.178.32
+"2025-08-17 10:30:55",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?&secret_csrf=1755415818afa1a18b1e2ab92228d9a9537596357fef6f99907dbc6082728d7975ce6e2a0f,176.226.178.32
+"2025-08-17 10:30:55",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/timeline/index.php?siteuser_id=5&parentWindowId=id_content,176.226.178.32
+"2025-08-17 10:30:55",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/note/index.php?siteuser_id=5,176.226.178.32
+"2025-08-17 10:30:55",admin,"Доступ к модулю ""shop"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/shop/order/index.php?siteuser_id=5&show_subs=1&parentWindowId=id_content,176.226.178.32
+"2025-08-17 10:30:55",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/email/index.php?siteuser_id=5&show_subs=1&parentWindowId=id_content,176.226.178.32
+"2025-08-17 10:30:55",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/event/index.php?siteuser_id=5&show_subs=1&parentWindowId=id_content,176.226.178.32
+"2025-08-17 10:31:06",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?hostcms[current]=1&hostcms[sortingfield]=107&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][5]=1,176.226.178.32
+"2025-08-17 10:31:06",admin,"Действие ""Редактировать"" формы ""Клиенты""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?hostcms[current]=1&hostcms[sortingfield]=107&hostcms[sortingdirection]=1&hostcms[window]=id_content&hostcms[filterId]=&hostcms[checked][0][5]=1,176.226.178.32
+"2025-08-17 10:31:16",admin,"Доступ к модулю ""user"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/user/index.php,176.226.178.32
+"2025-08-17 10:31:21",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php,176.226.178.32
+"2025-08-17 10:31:24",admin,"Доступ к модулю ""siteuser"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?&secret_csrf=175541588183b972feeb8142cab53c359bc0e77a02b763ffce9c3cf3038109c7aaf4341205,176.226.178.32
+"2025-08-17 10:31:24",admin,"Действие ""Удалить"" формы ""Клиенты""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/siteuser/index.php?&secret_csrf=175541588183b972feeb8142cab53c359bc0e77a02b763ffce9c3cf3038109c7aaf4341205,176.226.178.32
+"2025-08-17 10:33:45",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/index.php,176.226.178.32
+"2025-08-17 10:33:47",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/index.php,176.226.178.32
+"2025-08-17 10:33:49",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:33:50",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:33:51",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:34:42",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:34:42",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:35:54",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:35:54",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:37:00",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:37:00",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:37:52",admin,"Доступ к модулю ""cache"" разрешен",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32
+"2025-08-17 10:37:52",admin,"Действие ""Очистить весь кэш"" формы ""Кэш""",1,"ООО МетЧелСервис",https://metchelservice74.ru/admin/cache/cache/index.php?cache=file,176.226.178.32

@@ -1,0 +1,32 @@
+"2025-08-16 06:52:19",,"<strong>Предупреждение:</strong> Undefined array key &quot;fio&quot; в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 6)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 6",3,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"SMTP error: ""501 <>: missing or malformed local part
+"", expect ""250""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"<strong>Deprecated:</strong> nl2br(): Passing null to parameter #1 ($string) of type string is deprecated в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 6)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 6",2,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"<strong>Предупреждение:</strong> Undefined array key &quot;mail&quot; в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 7)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 7",3,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"SMTP error: ""501 <>: missing or malformed local part
+"", expect ""250""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"<strong>Deprecated:</strong> nl2br(): Passing null to parameter #1 ($string) of type string is deprecated в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 7)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 7",2,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"<strong>Предупреждение:</strong> Undefined array key &quot;phone&quot; в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 8)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 8",3,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"SMTP error: ""501 <>: missing or malformed local part
+"", expect ""250""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"<strong>Deprecated:</strong> nl2br(): Passing null to parameter #1 ($string) of type string is deprecated в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 8)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 8",2,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:19",,"<strong>Предупреждение:</strong> Undefined array key &quot;comment&quot; в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 9)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 9",3,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:20",,"SMTP error: ""501 <>: missing or malformed local part
+"", expect ""250""",4,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6
+"2025-08-16 06:52:20",,"<strong>Deprecated:</strong> nl2br(): Passing null to parameter #1 ($string) of type string is deprecated в файле /var/www/client_metchel/data/www/metchelservice74.ru/ajax/send_mail.php (строка 9)
+Стек вызовов:
+Файл: ajax/send_mail.php, строка 9",2,-,https://metchelservice74.ru/ajax/send_mail.php,66.249.76.6

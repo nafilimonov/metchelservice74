@@ -166,33 +166,17 @@
 					<xsl:otherwise>left info_block__item</xsl:otherwise>
 				</xsl:choose>
 			</xsl:attribute>
-			
-			<div>
-				<xsl:if test="image_large!=''">
-					<div class="info_block__img" style="background-image: url({dir}{image_large})"></div>
-				</xsl:if>
-			</div>
-			<div class="info_block__title">
-				<a href="{url}" title="{name}"><xsl:value-of select="name"/></a>
-			</div>
-			<div class="info_block__text">
-				<xsl:if test="count(property_value[property_dir_id = 0 and ( value != '' or file != '')])">
-					<xsl:for-each select="property_value[property_dir_id = 0 and ( value != '' or file != '')]">
-						<!-- Определение типа файла -->
-						<xsl:variable name="file_type">
-							<xsl:call-template name="file_type">
-								<xsl:with-param name="str" select="file" />
-							</xsl:call-template>
-						</xsl:variable>
+            <a href="{url}" title="{name}">
+                <div>
+                    <xsl:if test="image_large!=''">
+                        <div class="info_block__img" style="background-image: url({dir}{image_large})"></div>
+                    </xsl:if>
+                </div>
+                <div class="info_block__title">
+                    <xsl:value-of select="name"/>
+                </div>
+            </a>
 
-						<img src="/hostcmsfiles/images/icons/{$file_type}" class="img" /><xsl:text> </xsl:text>
-						<a href="{$dir}{file}" target="_blank">
-							<xsl:value-of disable-output-escaping="yes" select="file_description"/>
-						</a>
-						<br/>
-					</xsl:for-each>
-				</xsl:if>
-			</div>
 		</div>
 
 	</xsl:template>

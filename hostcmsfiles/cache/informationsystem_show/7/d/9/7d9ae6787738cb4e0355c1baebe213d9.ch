@@ -1,90 +1,90 @@
-a:3:{s:7:"content";s:3615:"
+a:3:{s:7:"content";s:3675:"
 
 <div>
   <h2>Челябинск</h2>
   <div class="info_block">
     <div class="left info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/6/3/0/item_630/item_630.png)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/28/630/" title="50-летия ВЛКСМ 22А">50-летия ВЛКСМ 22А</a>
-      </div>
+      <a href="/housing/28/630/" title="50-летия ВЛКСМ 22А">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/6/3/0/item_630/item_630.png)"></div>
+        </div>
+        <div class="info_block__title">50-летия ВЛКСМ 22А</div>
+      </a>
     </div>
     <div class="right info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/6/2/9/item_629/item_629.png)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/28/629/" title="Бейвеля 61">Бейвеля 61</a>
-      </div>
+      <a href="/housing/28/629/" title="Бейвеля 61">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/6/2/9/item_629/item_629.png)"></div>
+        </div>
+        <div class="info_block__title">Бейвеля 61</div>
+      </a>
     </div>
     <div class="left info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/5/item_555/item_555.jpg)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/28/555/" title="Мира 63">Мира 63</a>
-      </div>
+      <a href="/housing/28/555/" title="Мира 63">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/5/item_555/item_555.jpg)"></div>
+        </div>
+        <div class="info_block__title">Мира 63</div>
+      </a>
     </div>
     <div class="right info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/6/item_556/item_556.jpg)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/28/556/" title="Мира 63а">Мира 63а</a>
-      </div>
+      <a href="/housing/28/556/" title="Мира 63а">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/6/item_556/item_556.jpg)"></div>
+        </div>
+        <div class="info_block__title">Мира 63а</div>
+      </a>
     </div>
     <div class="left info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/6/0/2/item_602/item_602.jpg)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/28/602/" title="Шоссе металлургов 6">Шоссе металлургов 6</a>
-      </div>
+      <a href="/housing/28/602/" title="Шоссе металлургов 6">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/6/0/2/item_602/item_602.jpg)"></div>
+        </div>
+        <div class="info_block__title">Шоссе металлургов 6</div>
+      </a>
     </div>
   </div>
   <h2>Рощино</h2>
   <div class="info_block">
     <div class="left info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/4/item_554/item_554.jpg)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/30/554/" title="Ленина 1в">Ленина 1в</a>
-      </div>
+      <a href="/housing/30/554/" title="Ленина 1в">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/4/item_554/item_554.jpg)"></div>
+        </div>
+        <div class="info_block__title">Ленина 1в</div>
+      </a>
     </div>
     <div class="right info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/3/item_553/item_553.jpg)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/30/553/" title="Ленина 20">Ленина 20</a>
-      </div>
+      <a href="/housing/30/553/" title="Ленина 20">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/3/item_553/item_553.jpg)"></div>
+        </div>
+        <div class="info_block__title">Ленина 20</div>
+      </a>
     </div>
     <div class="left info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/2/item_552/item_552.jpg)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/30/552/" title="Ленина 22">Ленина 22</a>
-      </div>
+      <a href="/housing/30/552/" title="Ленина 22">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/2/item_552/item_552.jpg)"></div>
+        </div>
+        <div class="info_block__title">Ленина 22</div>
+      </a>
     </div>
     <div class="right info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/6/3/8/item_638/item_638.jpg)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/30/638/" title="Ленина, 24">Ленина, 24</a>
-      </div>
+      <a href="/housing/30/638/" title="Ленина, 24">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/6/3/8/item_638/item_638.jpg)"></div>
+        </div>
+        <div class="info_block__title">Ленина, 24</div>
+      </a>
     </div>
     <div class="left info_block__item">
-      <div>
-        <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/0/item_550/item_550.jpg)"></div>
-      </div>
-      <div class="info_block__title">
-        <a href="/housing/30/550/" title="Молодежная 10">Молодежная 10</a>
-      </div>
+      <a href="/housing/30/550/" title="Молодежная 10">
+        <div>
+          <div class="info_block__img" style="background-image: url(/upload/information_system_18/5/5/0/item_550/item_550.jpg)"></div>
+        </div>
+        <div class="info_block__title">Молодежная 10</div>
+      </a>
     </div>
   </div>
 </div>
